@@ -9,7 +9,6 @@ Hi there 👋 I'm Oli;
 
 
     > 🌍 Based in London
-    > 🖥️ Predominantly into webapp development. I utilise Django as well as React to create applications as a fullstack individual.
-  	> ⚙️ Tech I'm passionate about: Python, Typescript, BASH, React, Django.
-	> 🐧 FOSS and Linux Enthusiast.
+  	> ⚙️ Tech I'm passionate about: Python, Linux, BASH, Ruby, Django.
+	> 🐧 FOSS and Gentoo Enthusiast.
 	> ✈️ "If it looks good it flies good."
