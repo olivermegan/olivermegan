@@ -1,4 +1,4 @@
-Hi there 👋 I'm Oli; 
+Oli from Battersea; 
 
 
 																	
@@ -9,6 +9,6 @@ Hi there 👋 I'm Oli;
 
 
     > 🌍 Based in London
-  	> ⚙️ Tech I'm passionate about: Python, Unix, BASH.
+  	> ⚙️ Tech I'm passionate about: Unix, Linux, TCP/ IP.
 	> 🐧 FOSS, FreeBSD and Gentoo Enthusiast.
 	
